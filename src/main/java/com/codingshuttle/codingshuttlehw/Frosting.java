@@ -1,2 +1,5 @@
-package com.codingshuttle.codingshuttlehw;public interface Frosting {
+package com.codingshuttle.codingshuttlehw;
+
+public interface Frosting {
+     String getFrostingType();
 }
